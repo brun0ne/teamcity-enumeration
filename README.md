@@ -18,7 +18,7 @@ $ bash teamcity-enum.sh
 - finds the database configuration
 - attempts to extract the user table from a `hsqldb` database (if used)
     - more info: https://hsqldb.org/doc/2.0/util-guide/sqltool-chapt.html
-- finds and lists all files in the main `pluginData` directory
+- finds and lists all files in `pluginData` directories
 
 ## Screenshots
 
